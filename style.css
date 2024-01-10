@@ -1,0 +1,15 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.button{
+    color: white;
+    letter-spacing: 15px;
+}
+
+
+.back{
+    background-image:url("Background2.jpg");
+    color: black;
+}
